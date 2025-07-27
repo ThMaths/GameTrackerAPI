@@ -46,7 +46,7 @@ Une API RESTful ASP.NET Core pour gérer votre collection de jeux vidéo, avec 
 3. **Lancer le backend**
 
    ```bash
-   dotnet run
+   click on https button to start on visual studio or in console use dotnet run at GameTrackerAPI
    ```
 
    L’API écoute par défaut sur :
