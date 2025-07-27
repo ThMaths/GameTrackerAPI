@@ -51,14 +51,14 @@ Une API RESTful ASP.NET Core pour gérer votre collection de jeux vidéo, avec 
 
    L’API écoute par défaut sur :
 
-   * `https://localhost:7270`
+   * `https://localhost:7218`
    * `http://localhost:5098`
 
 4. **Accéder à Swagger UI**
    Ouvrez dans votre navigateur :
 
    ```
-   https://localhost:7270/swagger
+   https://localhost:7218/swagger
    ```
 
    * Effectuez un **POST** vers `/api/auth/login` avec vos identifiants de test.
