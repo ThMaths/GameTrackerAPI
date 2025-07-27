@@ -52,12 +52,12 @@ builder.Services.AddSwaggerGen(c =>
         Title = "GameTracker API",
         Version = "v1",
         Description = "Une API RESTful ASP.NET Core pour gérer votre collection de jeux vidéo : " +
-                      "CRUD basique, suivi du statut ‘terminé’ et authentification JWT.",
+                      "CRUD basique, suivi du statut ‘terminé’ et authentification JWT. Lien vers le site : https://localhost:7018/",
+        
         Contact = new OpenApiContact
         {
-            Name = "Thomas Mathias",
-            Email = "mathias.thomas1@edu.igensia.com",
-            Url = new Uri("")
+            Name = "Github project",
+            Url = new Uri("https://github.com/ThMaths/GameTrackerAPI")
         },
     });
 
