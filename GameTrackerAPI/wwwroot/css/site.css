@@ -1,0 +1,16 @@
+﻿body {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+#loginSection,
+#appSection {
+    transition: opacity 0.3s ease;
+}
+
+.card {
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.table-hover tbody tr:hover {
+    background-color: #f0f8ff;
+}
